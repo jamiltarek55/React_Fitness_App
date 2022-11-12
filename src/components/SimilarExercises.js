@@ -20,5 +20,4 @@ const SimilarExercises = ({ targetMuscleExercises, equipmentExercises }) => (
     </Stack>
   </Box>
 );
-
 export default SimilarExercises;
