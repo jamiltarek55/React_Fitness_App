@@ -1,9 +1,5 @@
 # React Fitness Application
 
-### Live Preview
-
-https://spectacular-narwhal-632f1a.netlify.app/
-
 
 ## Live Preview
 
@@ -16,18 +12,18 @@ https://spectacular-narwhal-632f1a.netlify.app/
   ### Just follow this steps:
   Download the zip file from the github link
   then extract the zip file on your system 
-  go the project direct as <br/>`React_Fitness_App`
+  go the project direct as <br/>  `React_Fitness_App`
 
 <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
   
-  `npm install`<br/>
-      or <br/>
-  `yarn`
+      `npm install`<br/>
+          or <br/>
+      `yarn`
   <li>and that's it! you can run it with the following command and view the application.</li>
 
-  `npm start`
-   <br/>  or <br/>
-  `yarn start`
+      `npm start`
+       <br/>  or <br/>
+      `yarn start`
   
  ### For Git Clone
  <br/> 
