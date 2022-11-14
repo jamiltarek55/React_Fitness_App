@@ -15,13 +15,13 @@
   go the project direct as <br/>  `React_Fitness_App`
 
 <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
-  
-      `npm install`<br/>
+  `npm install`<br/>
           or <br/>
       `yarn`
+      
   <li>and that's it! you can run it with the following command and view the application.</li>
 
-      `npm start`
+  `npm start`
        <br/>  or <br/>
       `yarn start`
   
