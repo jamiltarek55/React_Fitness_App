@@ -9,7 +9,7 @@
 
 ## Do you want to use or run this project locally?
 
-  ### Just follow this steps:
+### Just follow this steps:
     Download the zip file from the github link
     then extract the zip file on your system 
     go the project direct as <br/>  `React_Fitness_App`
