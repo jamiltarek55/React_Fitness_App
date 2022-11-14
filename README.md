@@ -11,8 +11,8 @@
 
 ### Just follow this steps:
 Download the zip file from the github link
-    then extract the zip file on your system 
-    go the project direct as <br/>  `React_Fitness_App`
+then extract the zip file on your system 
+go the project direct as <br/>  `React_Fitness_App`
 
     <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
 
