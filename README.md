@@ -1,4 +1,4 @@
-# React Fitness Application
+# React Fitness Club
 
 
 ## Live Preview
